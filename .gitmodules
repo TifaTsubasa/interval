@@ -4,5 +4,5 @@
 	branch = master
 [submodule "content"]
 	path = content
-	url = git@github.com:idevqa/interval-content.git
+	url = git@github.com:TifaTsubasa/interval-content.git 	
 	branch = master
